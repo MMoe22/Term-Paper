@@ -24,4 +24,4 @@ class random_number:
         return ans
 
 
-print(random_number.generate(5, 1, 100))
+print(random_number.generate(7, 1, 100))
